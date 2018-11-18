@@ -11,4 +11,4 @@ virtualenv -p python3 env-dlkeras
 source env-dlkeras/bin/activate
 pip install --upgrade -r requirements.txt
 
-python3 python_script.py
+jupyter notebook --allow-root --ip 0.0.0.0
