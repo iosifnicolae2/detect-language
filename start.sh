@@ -11,4 +11,4 @@ virtualenv -p python3 env-dlkeras
 source env-dlkeras/bin/activate
 pip install --upgrade -r requirements.txt
 
-python python_script.py
+python3 python_script.py
