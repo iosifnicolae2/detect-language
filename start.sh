@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-sudo apt-get install python-dev python-pip
+apt-get install python-dev python-pip
 
 pip3 install -U virtualenv
 
